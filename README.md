@@ -1,6 +1,7 @@
 # gpt-author
 
 This project utilizes a chain of GPT-4 and Stable Diffusion API calls to generate an original fantasy novel. Users can provide an initial prompt and enter how many chapters they'd like it to be, and the AI then generates an entire novel, outputting an EPUB file compatible with e-book readers.
+we can try gpt 3.5
 
 **A 15-chapter novel can cost as little as $4 to produce, and is written in just a few minutes.**
 
